@@ -1,4 +1,4 @@
-def display_rainbow(colors)
+def display_rainbow
 puts "#{R}, #{O}, #{Y}, #{G}, #{B}, #{I}, #{V}"
 end
 R = "R: red"
